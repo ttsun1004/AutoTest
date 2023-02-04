@@ -2,3 +2,4 @@ i111222
 新增merge内容
 两个分支内容冲突后保存的内容
 版本1 version1
+版本2 version2
