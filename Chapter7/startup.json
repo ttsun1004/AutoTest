@@ -1,0 +1,13 @@
+[
+  {
+    "description":"自己写的mock例子",
+    "request":{
+      "uri":"/mocodemo"
+    },
+    "response": {
+      "text":"第一个moco框架demo"
+
+    }
+
+  }
+]

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="reportSuite">
+    <test name="reportTest">
+        <classes>
+            <class name="com.tester.extent.demo.TestMethodDemo"/>
+            <methods>
+                <include name="test1"/>
+                <include name="test2"/>
+                <include name="logDemo"/>
+            </methods>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"/>
+    </listeners>
+</suite>
